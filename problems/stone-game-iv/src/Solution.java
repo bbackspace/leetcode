@@ -13,6 +13,7 @@ class Solution {
             for (int i = 1; i * i <= n; i++) {
                 if (winnerSquareGame(n - i * i) == false) {
                     ans = true;
+                    break;
                 }
             }
         }
