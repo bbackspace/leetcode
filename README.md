@@ -1,4 +1,4 @@
 # bbackspace/leetcode
-Leetcode solutions by user [joel10](https://leetcode.com/joel10/)
+Leetcode solutions by user [bbackspace](https://leetcode.com/bbackspace/)
 
 Each problem has a Editorial and solution code under `src/`
