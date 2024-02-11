@@ -49,7 +49,7 @@ class Solution {
         for (int i = 1; i < n; i++) {
             if (nums[i - 1] < nums[i]) {
                 s.append('a');
-            }else if (nums[i - 1] == nums[i]) {
+            } else if (nums[i - 1] == nums[i]) {
                 s.append('b');
             } else {
                 s.append('c');
@@ -58,7 +58,7 @@ class Solution {
         for (int i = 0; i < m; i++) {
             if (pattern[i] == 1) {
                 p.append('a');
-            }else if (pattern[i] == 0) {
+            } else if (pattern[i] == 0) {
                 p.append('b');
             } else {
                 p.append('c');
