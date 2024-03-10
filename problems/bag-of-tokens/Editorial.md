@@ -1,0 +1,3 @@
+## Approach
+
+Sort and Greedy
